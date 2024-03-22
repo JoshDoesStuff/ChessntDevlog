@@ -15,9 +15,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable  }}.
 
-name: ???
+name: "Chessn't"
 title: "Chessn't devlog"
-description: "Tracking Progress on Chessn't
+description: "Tracking Progress on Chessn't"
 
 gh_name: "Chessn't"
 gh_commits: https://github.com/JoshDoesStuff/Chessnt/commits/?author=???
