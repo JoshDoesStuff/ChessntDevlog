@@ -21,6 +21,7 @@ description: "Tracking Progress on Chessn't"
 
 gh_name: "Chessn't"
 gh_commits: https://github.com/JoshDoesStuff/ChessntDemo/commits/
+gh_prs: https://github.com/JoshDoesStuff/ChessntDemo/pulls
 gh_issues: https://github.com/JoshDoesStuff/ChessntDemo/issues?utf8=%E2%9C%93&q=is:issue
 gh_project: https://github.com/JoshDoesStuff/ChessntDemo
 
